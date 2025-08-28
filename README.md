@@ -35,7 +35,7 @@ You need to have [Node.js](https://nodejs.org/) and [pnpm](https://pnpm.io/) ins
 
 1.  Clone the repo
     ```sh
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/pouya-wp/portina.git
     ```
 2.  Install PNPM packages
     ```sh
